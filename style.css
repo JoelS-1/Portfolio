@@ -188,3 +188,7 @@ footer{
 .padding{
   margin-bottom: 2rem;
 }
+
+img{
+  border: 1px solid black;
+}
